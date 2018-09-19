@@ -5,6 +5,5 @@
 def roll
   y=rand(1..6)
   x=[1,2,3,4,5,6].sample
-  y
-  x
+  dis.pry
 end
