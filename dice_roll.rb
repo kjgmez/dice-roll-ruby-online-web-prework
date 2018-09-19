@@ -2,7 +2,7 @@
 
 # Feel free to google "how to generate a random number in ruby"
 
-def roll (ar=[1,2,3,4,5,6])
+def roll
   rand(1..6)
-  sample.ar
+  [1,2,3,4,5,6].sample
 end
