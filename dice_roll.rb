@@ -8,5 +8,3 @@ def roll
   y
   x
 end
-y 
-x
